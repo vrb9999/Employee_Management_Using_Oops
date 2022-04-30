@@ -1,0 +1,13 @@
+D:\RFP\Employee_Management_Using_Oops\Emp_WageForMonth\Emp_WageForMonth\bin\Debug\netcoreapp3.1\Emp_WageForMonth.exe
+D:\RFP\Employee_Management_Using_Oops\Emp_WageForMonth\Emp_WageForMonth\bin\Debug\netcoreapp3.1\Emp_WageForMonth.deps.json
+D:\RFP\Employee_Management_Using_Oops\Emp_WageForMonth\Emp_WageForMonth\bin\Debug\netcoreapp3.1\Emp_WageForMonth.runtimeconfig.json
+D:\RFP\Employee_Management_Using_Oops\Emp_WageForMonth\Emp_WageForMonth\bin\Debug\netcoreapp3.1\Emp_WageForMonth.runtimeconfig.dev.json
+D:\RFP\Employee_Management_Using_Oops\Emp_WageForMonth\Emp_WageForMonth\bin\Debug\netcoreapp3.1\Emp_WageForMonth.dll
+D:\RFP\Employee_Management_Using_Oops\Emp_WageForMonth\Emp_WageForMonth\bin\Debug\netcoreapp3.1\Emp_WageForMonth.pdb
+D:\RFP\Employee_Management_Using_Oops\Emp_WageForMonth\Emp_WageForMonth\obj\Debug\netcoreapp3.1\Emp_WageForMonth.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP\Employee_Management_Using_Oops\Emp_WageForMonth\Emp_WageForMonth\obj\Debug\netcoreapp3.1\Emp_WageForMonth.AssemblyInfoInputs.cache
+D:\RFP\Employee_Management_Using_Oops\Emp_WageForMonth\Emp_WageForMonth\obj\Debug\netcoreapp3.1\Emp_WageForMonth.AssemblyInfo.cs
+D:\RFP\Employee_Management_Using_Oops\Emp_WageForMonth\Emp_WageForMonth\obj\Debug\netcoreapp3.1\Emp_WageForMonth.csproj.CoreCompileInputs.cache
+D:\RFP\Employee_Management_Using_Oops\Emp_WageForMonth\Emp_WageForMonth\obj\Debug\netcoreapp3.1\Emp_WageForMonth.dll
+D:\RFP\Employee_Management_Using_Oops\Emp_WageForMonth\Emp_WageForMonth\obj\Debug\netcoreapp3.1\Emp_WageForMonth.pdb
+D:\RFP\Employee_Management_Using_Oops\Emp_WageForMonth\Emp_WageForMonth\obj\Debug\netcoreapp3.1\Emp_WageForMonth.genruntimeconfig.cache

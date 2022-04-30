@@ -1,0 +1,14 @@
+D:\RFP\Employee_Management_Using_Oops\Emp_UsingSwitchCase\Emp_UsingSwitchCase\bin\Debug\netcoreapp3.1\Emp_UsingSwitchCase.exe
+D:\RFP\Employee_Management_Using_Oops\Emp_UsingSwitchCase\Emp_UsingSwitchCase\bin\Debug\netcoreapp3.1\Emp_UsingSwitchCase.deps.json
+D:\RFP\Employee_Management_Using_Oops\Emp_UsingSwitchCase\Emp_UsingSwitchCase\bin\Debug\netcoreapp3.1\Emp_UsingSwitchCase.runtimeconfig.json
+D:\RFP\Employee_Management_Using_Oops\Emp_UsingSwitchCase\Emp_UsingSwitchCase\bin\Debug\netcoreapp3.1\Emp_UsingSwitchCase.runtimeconfig.dev.json
+D:\RFP\Employee_Management_Using_Oops\Emp_UsingSwitchCase\Emp_UsingSwitchCase\bin\Debug\netcoreapp3.1\Emp_UsingSwitchCase.dll
+D:\RFP\Employee_Management_Using_Oops\Emp_UsingSwitchCase\Emp_UsingSwitchCase\bin\Debug\netcoreapp3.1\Emp_UsingSwitchCase.pdb
+D:\RFP\Employee_Management_Using_Oops\Emp_UsingSwitchCase\Emp_UsingSwitchCase\obj\Debug\netcoreapp3.1\Emp_UsingSwitchCase.csproj.AssemblyReference.cache
+D:\RFP\Employee_Management_Using_Oops\Emp_UsingSwitchCase\Emp_UsingSwitchCase\obj\Debug\netcoreapp3.1\Emp_UsingSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP\Employee_Management_Using_Oops\Emp_UsingSwitchCase\Emp_UsingSwitchCase\obj\Debug\netcoreapp3.1\Emp_UsingSwitchCase.AssemblyInfoInputs.cache
+D:\RFP\Employee_Management_Using_Oops\Emp_UsingSwitchCase\Emp_UsingSwitchCase\obj\Debug\netcoreapp3.1\Emp_UsingSwitchCase.AssemblyInfo.cs
+D:\RFP\Employee_Management_Using_Oops\Emp_UsingSwitchCase\Emp_UsingSwitchCase\obj\Debug\netcoreapp3.1\Emp_UsingSwitchCase.csproj.CoreCompileInputs.cache
+D:\RFP\Employee_Management_Using_Oops\Emp_UsingSwitchCase\Emp_UsingSwitchCase\obj\Debug\netcoreapp3.1\Emp_UsingSwitchCase.dll
+D:\RFP\Employee_Management_Using_Oops\Emp_UsingSwitchCase\Emp_UsingSwitchCase\obj\Debug\netcoreapp3.1\Emp_UsingSwitchCase.pdb
+D:\RFP\Employee_Management_Using_Oops\Emp_UsingSwitchCase\Emp_UsingSwitchCase\obj\Debug\netcoreapp3.1\Emp_UsingSwitchCase.genruntimeconfig.cache

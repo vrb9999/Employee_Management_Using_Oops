@@ -1,0 +1,14 @@
+D:\RFP\Employee_Management_Using_Oops\Emp_PartTime\Emp_PartTime\bin\Debug\netcoreapp3.1\Emp_PartTime.exe
+D:\RFP\Employee_Management_Using_Oops\Emp_PartTime\Emp_PartTime\bin\Debug\netcoreapp3.1\Emp_PartTime.deps.json
+D:\RFP\Employee_Management_Using_Oops\Emp_PartTime\Emp_PartTime\bin\Debug\netcoreapp3.1\Emp_PartTime.runtimeconfig.json
+D:\RFP\Employee_Management_Using_Oops\Emp_PartTime\Emp_PartTime\bin\Debug\netcoreapp3.1\Emp_PartTime.runtimeconfig.dev.json
+D:\RFP\Employee_Management_Using_Oops\Emp_PartTime\Emp_PartTime\bin\Debug\netcoreapp3.1\Emp_PartTime.dll
+D:\RFP\Employee_Management_Using_Oops\Emp_PartTime\Emp_PartTime\bin\Debug\netcoreapp3.1\Emp_PartTime.pdb
+D:\RFP\Employee_Management_Using_Oops\Emp_PartTime\Emp_PartTime\obj\Debug\netcoreapp3.1\Emp_PartTime.csproj.AssemblyReference.cache
+D:\RFP\Employee_Management_Using_Oops\Emp_PartTime\Emp_PartTime\obj\Debug\netcoreapp3.1\Emp_PartTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP\Employee_Management_Using_Oops\Emp_PartTime\Emp_PartTime\obj\Debug\netcoreapp3.1\Emp_PartTime.AssemblyInfoInputs.cache
+D:\RFP\Employee_Management_Using_Oops\Emp_PartTime\Emp_PartTime\obj\Debug\netcoreapp3.1\Emp_PartTime.AssemblyInfo.cs
+D:\RFP\Employee_Management_Using_Oops\Emp_PartTime\Emp_PartTime\obj\Debug\netcoreapp3.1\Emp_PartTime.csproj.CoreCompileInputs.cache
+D:\RFP\Employee_Management_Using_Oops\Emp_PartTime\Emp_PartTime\obj\Debug\netcoreapp3.1\Emp_PartTime.dll
+D:\RFP\Employee_Management_Using_Oops\Emp_PartTime\Emp_PartTime\obj\Debug\netcoreapp3.1\Emp_PartTime.pdb
+D:\RFP\Employee_Management_Using_Oops\Emp_PartTime\Emp_PartTime\obj\Debug\netcoreapp3.1\Emp_PartTime.genruntimeconfig.cache
